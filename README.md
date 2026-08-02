@@ -15,11 +15,17 @@ I enjoy building practical projects and continuously improving my technical skil
 - HTML
 - CSS
 
+###  Frontend
+- React
+- Angular
+
 ### Backend
 - Node.js
+- Spring Boot
 
 ### Database
 - PostgreSQL
+- Cloudflare
 
 ### Automation
 - n8n
