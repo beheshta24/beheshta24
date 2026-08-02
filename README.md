@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi  I'm Beheshta
 
-<!--
-**beheshta24/beheshta24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science & Business Student at HTW Berlin
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science student interested in AI, automation, and web development.  
+I enjoy building practical projects and continuously improving my technical skills.
+
+##  Technologies & Tools
+
+### Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+- Node.js
+
+### Database
+- PostgreSQL
+
+### Automation
+- n8n
+- Jira
+- Zoho
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+##  Current Projects
+
+- WebTech Project
+- n8n & Jira Automation
+- AI Agent Learning
+- Business Process Automation
+
+##  Currently Learning
+
+- AI Agents
+- Backend Development
+- REST APIs
+- PostgreSQL
+- Automation Workflows
+
+##  Goals
+
+- Build professional software projects
+- Improve backend development skills
+- Learn cloud technologies
+- Contribute to open-source projects
+
+---
+
+ Thanks for visiting my GitHub profile!
