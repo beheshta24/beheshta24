@@ -37,19 +37,9 @@ I enjoy building practical projects and continuously improving my technical skil
 - GitHub
 - VS Code
 
-##  Current Projects
-
-- WebTech Project
-- n8n & Jira Automation
-- AI Agent Learning
-- Business Process Automation
-
 ##  Currently Learning
 
 - AI Agents
-- Backend Development
-- REST APIs
-- PostgreSQL
 - Automation Workflows
 
 ##  Goals
